@@ -1,0 +1,5 @@
+print("enter the 3 nos")
+a=int(input())
+b=int(input())
+c=int(input())
+print("result1=",a%b*c)

@@ -1,0 +1,5 @@
+print("enter the breath of the triangle=")
+print("enter the height of the triangle=")
+b=int(input())
+h=int(input())
+print("area=",)
