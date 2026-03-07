@@ -1,0 +1,6 @@
+print("enter rectangle length ")
+L=int(input())
+print("enter rectangle breath ")
+B=int(input())
+perimeter=2*(L+B)
+print("perimeter is=",perimeter)
